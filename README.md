@@ -2,6 +2,8 @@
 
 This is a simple Python script that allows you to resize an image to a new size.
 
+RUN ONLINE : [RUN](https://replit.com/@Enoobis/image-resizer)
+
 ![image](https://user-images.githubusercontent.com/62465404/219957424-7dd61deb-c233-45fb-ac71-9af500e55ea3.png)
 
 ## Getting Started
